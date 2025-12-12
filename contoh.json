@@ -1,0 +1,9 @@
+{
+    "username": "your_username_here",
+    "password": "your_password_here",
+    "target_users": ["target_user1", "target_user2"],
+    "hashtags": ["programming", "python", "coding"],
+    "max_likes_per_day": 100,
+    "delay_between_actions": 30,
+    "like_probability": 80
+}
